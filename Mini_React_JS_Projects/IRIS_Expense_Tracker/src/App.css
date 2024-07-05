@@ -1,0 +1,12 @@
+h1{
+  font-size: x-large;
+  margin: 0;
+  padding: 0;
+}
+.css-11xur9t-MuiPaper-root-MuiTableContainer-root{
+  background-color: rgb(153, 255, 127) !important;
+}
+.MuiTableCell-body{
+  color: #085108 !important;
+  font-weight: 500 !important;
+}
