@@ -18,3 +18,9 @@ This repository contains a collection of mini projects built using React JS. Eac
 
 ### 5. IRIS Sorting Algorithm Visualizer
 **Description:** A visual tool for understanding sorting algorithms. Users can visualize different sorting techniques, observing how data is sorted step-by-step. This project is an excellent way to explore algorithm efficiency and React's rendering capabilities.
+
+### 6. IRIS League of Legends Landing Page
+**Description:** A visually appealing landing page for the game League of Legends. This project showcases design skills and React's ability to create engaging, interactive user interfaces.
+
+### 7. IRIS Nike Landing Page
+**Description:** A sleek and modern landing page for Nike. This project demonstrates the use of React for building responsive, stylish, and high-performance web pages.
