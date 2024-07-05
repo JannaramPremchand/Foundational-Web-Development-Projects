@@ -47,7 +47,10 @@ This repository contains a collection of web development projects built using HT
 - **IRIS_WebsiteLoaders:** Loader components providing visual feedback during website loading processes.
 
 ### Clones
-- **IRIS_Paypal:** A clone of the PayPal website, featuring comprehensive payment solutions and user-friendly interface design.
+- **IRIS_Paypal:** A landing page clone of the PayPal website, featuring comprehensive payment solutions and user-friendly interface design.
+- **IRIS_HotStar:** A landing page clone of the Hotstar streaming service.
+- **IRIS_Netflix:** A landing page clone of the Netflix streaming service.
+- **IRIS_Starbucks:** A landing page clone of the Starbucks website.
 
 ### Hands_On_Practice_Projects_with_HTML_CSS_JavaScript
 - **IRIS_age_calculator:** Calculate someone's age based on their birthdate.

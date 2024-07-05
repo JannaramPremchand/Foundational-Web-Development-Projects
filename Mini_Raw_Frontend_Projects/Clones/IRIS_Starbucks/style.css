@@ -1,0 +1,573 @@
+/* Global Styles  */
+*{
+    font-family: 'Lato', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --Primary-color: #006241;
+    --Black: #1E1E1E;
+    --White: #FFFFFF;
+    font-size: 62.5%;
+    --Animation: all 0.2s ease-out;
+}
+
+::selection{
+    background-color: var(--Black);
+    color: var(--White);
+}
+
+.header-container{
+    max-width: 1500px;
+    margin: auto;
+}
+
+.box-container{
+    max-width: 1275px;
+    margin: auto;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+ul li{
+    list-style: none;
+}
+/* Global Styles End  */
+
+/* Header Styles Starts  */
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+}
+
+.header2nd-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 75px;
+}
+
+.logo img{
+    width: 75px;
+    cursor: pointer;
+}
+
+nav ul{
+    display: flex;
+    gap: 25px;
+}
+
+nav ul a{
+    color: var(--Black);
+    text-decoration: none;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+nav ul a:hover{
+    color: var(--Primary-color);
+    transition: var(--Animation);
+}
+
+.header-icon{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.find-store{
+    font-size: 1.5rem;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.find-store:hover{
+    color: var(--Primary-color);
+    transform: var(--Animation);
+}
+
+.bxs-store{
+    font-size: 25px;
+}
+
+.header-link-button{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.btn-one{
+    font-size: 1.5rem;
+    text-decoration: none;
+    background-color: var(--White);
+    border: 1px solid var(--Black);
+    padding: 8px 20px;
+    border-radius: 50px;
+    color: var(--Black);
+    font-weight: bold;
+}
+
+.btn-one:hover{
+    background-color: var(--Black);
+    color: var(--White);
+    transition: var(--Animation);
+}
+
+.btn-two{
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: var(--Black);
+    padding: 10px 20px;
+    border-radius: 50px;
+    color: var(--White);
+}
+
+.btn-two:hover{
+    font-weight: bold;
+    background-color: var(--White);
+    border: solid 1px;
+    color: var(--Black);
+    transition: var(--Animation);
+}
+
+#menu-icon{
+    font-size: 30px;
+    color: #292929;
+    z-index: 10001;
+    cursor: pointer;
+    display: none;
+}
+/* Header Styles Starts End */
+
+/* Starbucks Hero Section Styles */
+.flex-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    background-color: var(--Primary-color);
+    text-align: center;
+}
+
+.poster-one{
+    padding: 50px;
+}
+
+.poster-one h2{
+    font-size: 6rem;
+    color: var(--White);
+}
+
+.poster-one p{
+    color: var(--White);
+    font-size: 2.5rem;
+    margin: 2rem;
+}
+
+.poster-one a{
+    font-size: 1.5rem;
+    text-decoration: none;
+    border: 1px solid var(--White);
+    padding: 8px 20px;
+    border-radius: 50px;
+    color: var(--White);
+    font-weight: bold;
+    display: inline-block;
+}
+
+.poster-one a:hover{
+    border: 1px solid var(--White);
+    color: var(--White);
+    background-color: #004E34;
+    transition: var(--Animation);
+}
+/* ---  */
+.flex-wrapper-two{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+    background-color: #1E3932;
+}
+
+.poster-two{
+    padding: 50px;
+}
+
+.poster-two h2{
+    font-size: 2.8rem;
+    color: var(--White);
+}
+
+.poster-two p{
+    color: var(--White);
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin: 2rem;
+}
+
+.poster-two a{
+    font-size: 1.5rem;
+    text-decoration: none;
+    border: 1px solid var(--White);
+    padding: 8px 20px;
+    border-radius: 50px;
+    color: var(--White);
+    font-weight: bold;
+    display: inline-block;
+}
+
+.poster-two a:hover{
+    background-color: #182E28;
+    transition: var(--Animation);
+}
+/* ---  */
+.flex-wrapper-three{
+    display: flex;
+    align-items: center;
+    background-color: #F0D0CB;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.poster-three{
+    padding: 50px;
+}
+
+.poster-three h2{
+    font-size: 6rem;
+    color: #1E3932;
+}
+
+.poster-three p{
+    font-size: 2.8rem;
+    margin: 20px 0;
+    color: #1E3932;
+}
+
+.poster-three a{
+    font-size: 1.5rem;
+    text-decoration: none;
+    border: 1px solid #1E3932;
+    padding: 8px 20px;
+    border-radius: 50px;
+    color: #1E3932;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.poster-three a:hover{
+    color: var(--White);
+    background-color: #182E28;
+    transition: var(--Animation);
+}
+/* ---  */
+.flex-wrapper-four{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    text-align: center;
+    background-color: #DC0032;
+}
+
+.poster-four{
+    padding: 50px;
+}
+
+.poster-four h2{
+    color: var(--White);
+    font-size: 6rem;
+}
+
+.poster-four p{
+    font-size: 2.6rem;
+    margin: 20px;
+    color: var(--White);
+}
+
+.poster-four a{
+    font-size: 1.5rem;
+    text-decoration: none;
+    border: 1px solid var(--White);
+    padding: 8px 20px;
+    border-radius: 50px;
+    color: var(--White);
+    font-weight: bold;
+    display: inline-block;
+}
+
+.poster-four a:hover{
+    color: var(--White);
+    background-color: #b00028;
+}
+/* ---  */
+.flex-wrapper-five{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    text-align: center;
+    background-color: #1E3932;
+}
+
+.poster-five{
+    padding: 50px;
+}
+
+.poster-five h2{
+    font-size: 5rem;
+    color: var(--White);
+}
+
+.poster-five p{
+    font-size: 2.6rem;
+    margin: 20px;
+    color: var(--White);
+}
+
+.poster-five a{
+    font-size: 1.5rem;
+    text-decoration: none;
+    border: 1px solid var(--White);
+    padding: 8px 20px;
+    border-radius: 50px;
+    color: var(--White);
+    font-weight: bold;
+    display: inline-block;
+}
+
+.poster-five a:hover{
+    color: var(--White);
+    background-color: #182E28;
+    transition: var(--Animation);
+}
+/* ---  */
+.flex-wrapper-six{
+    display: flex;
+    align-items: center;
+    background-color: #AD96DC;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.poster-six{
+    padding: 50px;
+}
+
+.poster-six h2{
+    font-size: 4rem;
+    color: #1E3932;
+}
+
+.poster-six p{
+    color: #1E3932;
+    font-size: 2.2rem;
+    margin: 20px;
+}
+
+.poster-six a{
+    font-size: 1.5rem;
+    text-decoration: none;
+    border: 1px solid var(--Black);
+    padding: 8px 20px;
+    border-radius: 50px;
+    color: var(--Black);
+    font-weight: bold;
+    display: inline-block;
+}
+
+.poster-six a:hover{
+    background-color: #9E8DCB;
+    transition: var(--Animation);
+}
+/* Starbucks Hero Section Styles END */
+
+/* Starbucks Customizations Section Styles Starts  */
+.flex-wrapper-seven{
+    text-align: center;
+    padding: 100px 0px 50px 0px;
+}
+
+.paragraph-two{
+    margin: 50px;
+}
+
+.paragraph-two span{
+    font-weight: 700;
+    color: navy;
+}
+
+.flex-wrapper-seven P{
+    font-size: 2rem;
+}
+
+.paragraph-three{
+    font-size: 2rem;
+}
+
+
+.paragraph-three a{
+    font-weight: 700;
+    color: navy;
+}
+/* Starbucks Customizations Section Styles Starts END */
+
+/* Essential Pages Styles Starts  */
+.info-links{
+    border-top: solid var(--Black) 1px;
+} 
+
+.link-wrapper{
+    display: flex;
+    gap: 45px;
+}
+
+.bold{
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+}
+
+.link-wrapper p{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.link-wrapper a{
+    text-decoration: none;
+    font-size: 1.6rem;
+    margin: 10px 0;
+    color: #363c46;
+    font-weight: 400;
+}
+
+.link-wrapper a:hover{
+    margin: 10px 0;
+    text-decoration: underline;
+}
+
+.link-wrapper{
+    padding-bottom: 25px;
+    border-bottom: solid 1px var(--Black);
+}
+/* Essential Pages Styles END  */
+
+/* Footer Section Styles Starts  */
+.icon-box{
+    margin-top: 30px;
+    font-size: 25px;
+    display: flex;
+    gap: 20px;
+}
+
+.policy-page{
+    display: flex;
+    gap: 50px;
+    margin: 30px 0;
+    font-size: 1.5rem;
+}
+
+.policy-page a:hover{
+    text-decoration: underline;
+}
+
+.policy-page-link a{
+    text-decoration: none;
+    font-weight: 700;
+    color: var(--Black);
+    border-right: solid 1px var(--Black);
+    padding-right: 30px;
+    margin-right: 30px;
+}
+
+.preferences{
+    text-decoration: none;
+    font-weight: 700;
+    padding-left: -30px;
+    margin-left: -30px;
+    color: var(--Black);
+}
+
+.footer-p{
+    color: var(--Black);
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+    color: var(--Black);
+    font-weight: 700;
+}
+
+/* .header_btns {
+    display: none;
+} */
+/* Footer Section Styles END */
+
+/* Device Responsive */
+@media (max-width: 945px){
+    header{
+        padding: 10px 3%;
+        transition: .3s;
+    }
+}
+
+@media(max-width: 1023px){
+    .flex-wrapper, .flex-wrapper-two, .flex-wrapper-three, .flex-wrapper-four, .flex-wrapper-five, .flex-wrapper-six, .flex-wrapper-seven p, .link-wrapper, .footer-p{
+        font-size: 16px;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        height: 100%;
+        padding: 10px 3%;
+        transition: .3s;
+    }
+}
+
+@media(max-width: 1300px){
+    .flex-wrapper, .link-wrapper, .footer-p{
+        height: 100%;
+        padding: 10px 3%;
+        transition: .3s;
+    }
+
+    .icon-box, .bx{
+        padding: 10px 3%;
+        font-size: 20px;
+        display: flex;
+        gap: 10px;
+    }
+
+    .policy-page{
+        display: none;
+    }
+
+    .header-icon{
+        display: none;
+    }
+}
+
+@media(max-width: 700px){
+
+    #menu-icon{
+        display: block;
+    }
+
+    .header-icon{
+        display: none;
+    }
+
+    .header_menue ul{
+        display: none;
+    }
+
+    .header-link-button {
+        display: none;
+    }
+}
+/* Device Responsive END */

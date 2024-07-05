@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Disney+ Clone</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<body>
+  <nav class="navbar">
+    <img src="images/logo.png" class="brand-logo" alt="" />
+    <ul class="nav-links">
+      <li class="nav-items"><a href="#">TV</a></li>
+      <li class="nav-items"><a href="#">Movies</a></li>
+      <li class="nav-items"><a href="#">Sports</a></li>
+      <li class="nav-items"><a href="#">Premium</a></li>
+    </ul>
+
+    <div class="right-container">
+      <input type="text" class="search-box" placeholder="Search" />
+      <button class="sub-btn">Subscribe</button>
+      <a href="#" class="login-link">Login</a>
+    </div>
+  </nav>
+
+  <div class="carousel-container">
+    <div class="carousel">
+      <!-- <div class="slider">
+          <div class="slide-content">
+            <h1 class="movie-title">Loki</h1>
+            <p class="movie-des">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit saepe eius ratione nostrum mollitia explicabo quae nam pariatur. Sint, odit?</p>
+          </div>
+          <img src="images/slider 1.png" alt="">
+        </div> -->
+    </div>
+  </div>
+
+  <div class="video-card-container">
+    <div class="video-card">
+      <img src="images/disney.png" class="video-card-image" alt="" />
+      <video src="videos/disney.mp4" muted loop class="card-video"></video>
+    </div>
+    <div class="video-card">
+      <img src="images/pixar.png" class="video-card-image" alt="" />
+      <video src="videos/pixar.mp4" muted loop class="card-video"></video>
+    </div>
+    <div class="video-card">
+      <img src="images/marvel.png" class="video-card-image" alt="" />
+      <video src="videos/marvel.mp4" muted loop class="card-video"></video>
+    </div>
+    <div class="video-card">
+      <img src="images/star-wars.png" class="video-card-image" alt="" />
+      <video src="videos/star-war.mp4" muted loop class="card-video"></video>
+    </div>
+    <div class="video-card">
+      <img src="images/geographic.png" class="video-card-image" alt="" />
+      <video src="videos/geographic.mp4" muted loop class="card-video"></video>
+    </div>
+  </div>
+
+  <h1 class="title">Recommended For You</h1>
+  <div class="movies-list">
+    <button class="pre-btn" title="btn">
+      <img src="images/pre.png" alt="" />
+    </button>
+    <button class="nxt-btn" title="btn">
+      <img src="images/nxt.png" alt="" />
+    </button>
+    <div class="card-container" id="recommended-container">
+      <!-- Movie cards will be inserted here dynamically -->
+    </div>
+  </div>
+
+  <h1 class="title">Popular Shows</h1>
+  <div class="movies-list">
+    <button class="pre-btn" title="btn">
+      <img src="images/pre.png" alt="" />
+    </button>
+    <button class="nxt-btn" title="btn">
+      <img src="images/nxt.png" alt="" />
+    </button>
+    <div class="card-container" id="popular-container">
+      <!-- Movie cards will be inserted here dynamically -->
+    </div>
+  </div>
+
+  <script src="index.js" async></script>
+  <script>
+    const moviesPosters = [
+  { src: 'images/posters/eshwar.jpg', name: 'Eeswar', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/raghavendra.jpeg', name: 'Raghavendra', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/varsham.jpg', name: 'Varsham', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/adavi_ramudu.jpeg', name: 'Adavi Ramudu', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/chakram.jpg', name: 'Chakram', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/chatrapathi.webp', name: 'Chatrapathi', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/pournami.jpg', name: 'Pournami', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/yogi.jpg', name: 'Yogi', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/munna.avif', name: 'Munna', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/bujjigadu.jpg', name: 'Bujjigadu', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/billa.webp', name: 'Billa', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/ek_niranjan.jpeg', name: 'Ek Niranjan', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/darling.jpg', name: 'Darling', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/mrPerfect.jpg', name: 'Mr. Perfect', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/rebel.webp', name: 'Rebel', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/mirchi.jpg', name: 'Mirchi', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/Baahubali_The_Beginning.jpg', name: 'Baahubali: The Beginning', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/Baahubal_The_Conclusion.jpg', name: 'Baahubali 2: The Conclusion', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/Saaho.webp', name: 'Saaho', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/Radhe_Shyam.jpg', name: 'Radhe Shyam', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/Adipurush.webp', name: 'Adipurush', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/salar1.jpg', name: 'Salaar: Part 1 – Ceasefire', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/Kalki.jpg', name: 'Kalki 2898 AD', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/Raja_Saab.jpg', name: 'The Raja Saab', description: 'Lorem ipsum dolor sit amet.' },
+  { src: 'images/posters/Salaar2.jpg', name: 'Salaar: Part 2 – Shouryaanga Parvam', description: 'Lorem ipsum dolor sit amet.' }
+];
+
+
+    // Populate Recommended For You section
+    const recommendedContainer = document.getElementById('recommended-container');
+    moviesPosters.forEach(moviesPoster => {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+          <img src="${moviesPoster.src}" class="card-img" alt="${moviesPoster.name}" />
+          <div class="card-body">
+            <h2 class="name">${moviesPoster.name}</h2>
+            <h6 class="des">${moviesPoster.description}</h6>
+            <button class="watchlist-btn">add to watchlist</button>
+          </div>
+        `;
+      recommendedContainer.appendChild(card);
+    });
+
+    // Populate Popular Shows section in reverse order
+    const popularContainer = document.getElementById('popular-container');
+    [...moviesPosters].reverse().forEach(moviesPoster => {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+          <img src="${moviesPoster.src}" class="card-img" alt="${moviesPoster.name}" />
+          <div class="card-body">
+            <h2 class="name">${moviesPoster.name}</h2>
+            <h6 class="des">${moviesPoster.description}</h6>
+            <button class="watchlist-btn">add to watchlist</button>
+          </div>
+        `;
+      popularContainer.appendChild(card);
+    });
+  </script>
+</body>
+
+</html>
