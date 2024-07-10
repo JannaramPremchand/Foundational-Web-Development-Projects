@@ -17,6 +17,9 @@ function updateTimer() {
 }
 
 function startTimer() {
+  if (interval) {
+    clearInterval(interval);
+  }
   interval = setInterval(() => {
     timeLeft--;
     updateTimer();
@@ -28,13 +31,18 @@ function startTimer() {
     }
   }, 1000);
 }
+
 function stopTimer() {
+  console.log("Stop timer clicked");
   clearInterval(interval);
+  interval = null; // Ensure interval is reset
 }
+
 function resetTimer() {
   clearInterval(interval);
   timeLeft = 1500;
   updateTimer();
+  interval = null; // Ensure interval is reset
 }
 
 startEl.addEventListener("click", startTimer);

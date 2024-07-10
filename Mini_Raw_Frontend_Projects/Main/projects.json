@@ -1,0 +1,838 @@
+{
+    "projects": {
+        "Animations": [
+            {
+                "title": "IRIS 3D Room",
+                "description": "Explore a virtual 3D room experience with interactive elements and immersive visuals.",
+                "link": "../Animations/IRIS_3D_Room/index.html",
+                "thumbnail": "Animations/IRIS_3D_Room/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Animations/IRIS_3D_Room"
+            },
+            {
+                "title": "IRIS 3D Swing",
+                "description": "Experience the thrill of swinging in a 3D environment with realistic physics.",
+                "link": "../Animations/IRIS_3D_Swing/index.html",
+                "thumbnail": "Animations/IRIS_3D_Swing/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Animations/IRIS_3D_Swing"
+            },
+            {
+                "title": "IRIS Animated Earth",
+                "description": "An animation depicting Earth's rotation and orbit in space.",
+                "link": "../Animations/IRIS_Animated_Earth/index.html",
+                "thumbnail": "Animations/IRIS_Animated_Earth/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Animations/IRIS_Animated_Earth"
+            },
+            {
+                "title": "IRIS Atoms",
+                "description": "Dive into the microscopic world with an animated representation of an atom's structure.",
+                "link": "../Animations/IRIS_Atoms/index.html",
+                "thumbnail": "Animations/IRIS_Atoms/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Animations/IRIS_Atoms"
+            },
+            {
+                "title": "IRIS Bicycle",
+                "description": "An animated view showcasing the design and functionality of a classic bicycle.",
+                "link": "../Animations/IRIS_Bicycle/index.html",
+                "thumbnail": "Animations/IRIS_Bicycle/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Animations/IRIS_Bicycle"
+            },
+            {
+                "title": "IRIS Circle Waves",
+                "description": "Mesmerizing wave patterns created by circles in this animated visual exploration.",
+                "link": "../Animations/IRIS_Circle_Waves/index.html",
+                "thumbnail": "Animations/IRIS_Circle_Waves/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Animations/IRIS_Circle_Waves"
+            },
+            {
+                "title": "IRIS Flower",
+                "description": "Enjoy a blooming flower animated with swaying petals and natural beauty.",
+                "link": "../Animations/IRIS_Flower/index.html",
+                "thumbnail": "Animations/IRIS_Flower/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Animations/IRIS_Flower"
+            },
+            {
+                "title": "IRIS Helicopter",
+                "description": "Experience an animated helicopter simulation with realistic flight dynamics and controls.",
+                "link": "../Animations/IRIS_Helicopter/index.html",
+                "thumbnail": "Animations/IRIS_Helicopter/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Animations/IRIS_Helicopter"
+            },
+            {
+                "title": "IRIS Jumping Square",
+                "description": "Watch a square bounce and leap in an animated display of dynamic motion.",
+                "link": "../Animations/IRIS_Jumping_Square/index.html",
+                "thumbnail": "Animations/IRIS_Jumping_Square/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Animations/IRIS_Jumping_Square"
+            },
+            {
+                "title": "IRIS Landing Page Animation",
+                "description": "Enhance your web presence with captivating landing page animations that engage users.",
+                "link": "../Animations/IRIS_LandingPageAnimation/index.html",
+                "thumbnail": "Animations/IRIS_LandingPageAnimation/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Animations/IRIS_LandingPageAnimation"
+            },
+            {
+                "title": "IRIS Nike Shoes Product Description",
+                "description": "An animated product description showcasing Nike shoes.",
+                "link": "../Animations/IRIS_Nike_Shoes_Product_Description/index.html",
+                "thumbnail": "Animations/IRIS_Nike_Shoes_Product_Description/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Animations/IRIS_Nike_Shoes_Product_Description"
+            },
+            {
+                "title": "IRIS Sliding Product Cards",
+                "description": "A single page with sliding product card displaying product details on hover.",
+                "link": "../Animations/IRIS_Sliding_Product_Cards/index.html",
+                "thumbnail": "Animations/IRIS_Sliding_Product_Cards/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Animations/IRIS_Sliding_Product_Cards"
+            }
+        ],
+        "Clones": [
+            {
+                "title": "IRIS PayPal",
+                "description": "A landing page clone of the PayPal website, featuring comprehensive payment solutions and user-friendly interface design.",
+                "link": "../Clones/IRIS_Paypal/index.html",
+                "thumbnail": "Clones/IRIS_Paypal/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Clones/IRIS_Paypal"
+            },
+            {
+                "title": "IRIS HotStar",
+                "description": "A landing page clone of the Hotstar streaming service.",
+                "link": "../Clones/IRIS_HotStar/index.html",
+                "thumbnail": "Clones/IRIS_HotStar/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Clones/IRIS_HotStar"
+            },
+            {
+                "title": "IRIS Netflix",
+                "description": "A landing page clone of the Netflix streaming service.",
+                "link": "../Clones/IRIS_Netflix/index.html",
+                "thumbnail": "Clones/IRIS_Netflix/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Clones/IRIS_Netflix"
+            },
+            {
+                "title": "IRIS Starbucks",
+                "description": "A landing page clone of the Starbucks website.",
+                "link": "../Clones/IRIS_Starbucks/index.html",
+                "thumbnail": "Clones/IRIS_Starbucks/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Clones/IRIS_Starbucks"
+            }
+        ],
+        "Components": [
+            {
+                "title": "IRIS Analog Clock",
+                "description": "An animated analog clock component displaying the current time with classic style.",
+                "link": "../Components/IRIS_Analog_Clock/index.html",
+                "thumbnail": "Components/IRIS_Analog_Clock/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_Analog_Clock"
+            },
+            {
+                "title": "IRIS Animated Hero Section",
+                "description": "A dynamic hero section component with animated elements to grab user attention.",
+                "link": "../Components/IRIS_Animated_heroSection/index.html",
+                "thumbnail": "Components/IRIS_Animated_heroSection/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_Animated_heroSection"
+            },
+            {
+                "title": "IRIS Business Card",
+                "description": "A stylish business card component designed for professional presentations.",
+                "link": "../Components/IRIS_Business_Card/index.html",
+                "thumbnail": "Components/IRIS_Business_Card/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_Business_Card"
+            },
+            {
+                "title": "IRIS Calendar",
+                "description": "A functional calendar component for organizing events and scheduling tasks.",
+                "link": "../Components/IRIS_Calendar/index.html",
+                "thumbnail": "Components/IRIS_Calendar/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_Calendar"
+            },
+            {
+                "title": "IRIS Circle Progress Bar",
+                "description": "An interactive circle progress bar component showing completion status visually.",
+                "link": "../Components/IRIS_Circle_Progress_Bar/index.html",
+                "thumbnail": "Components/IRIS_Circle_Progress_Bar/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_Circle_Progress_Bar"
+            },
+            {
+                "title": "IRIS CSS Grid Menu",
+                "description": "A menu component utilizing CSS grid layout for responsive and organized navigation.",
+                "link": "../Components/IRIS_CSS_Grid_Menu/index.html",
+                "thumbnail": "Components/IRIS_CSS_Grid_Menu/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_CSS_Grid_Menu"
+            },
+            {
+                "title": "IRIS CSS Toggle Button",
+                "description": "A customizable toggle button component implemented with CSS for interactive user interfaces.",
+                "link": "../Components/IRIS_CSS_Toggle_Button/index.html",
+                "thumbnail": "Components/IRIS_CSS_Toggle_Button/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_CSS_Toggle_Button"
+            },
+            {
+                "title": "IRIS Dropdown Menu",
+                "description": "A dropdown menu component providing intuitive navigation options in a compact format.",
+                "link": "../Components/IRIS_Dropdown_Menu/index.html",
+                "thumbnail": "Components/IRIS_Dropdown_Menu/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_Dropdown_Menu"
+            },
+            {
+                "title": "IRIS Forms",
+                "description": "A collection of form components designed for user input and data submission.",
+                "link": "../Components/IRIS_Forms/index.html",
+                "thumbnail": "Components/IRIS_Forms/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_Forms"
+            },
+            {
+                "title": "IRIS Hamburger Menu",
+                "description": "A compact hamburger menu component for mobile navigation with smooth animations.",
+                "link": "../Components/IRIS_HamburgerMenu/index.html",
+                "thumbnail": "Components/IRIS_HamburgerMenu/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_HamburgerMenu"
+            },
+            {
+                "title": "IRIS Hover Navigation Menu",
+                "description": "A navigation menu component featuring hover effects for enhanced user interaction.",
+                "link": "../Components/IRIS_Hover_Navigation_Menu/index.html",
+                "thumbnail": "Components/IRIS_Hover_Navigation_Menu/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_Hover_Navigation_Menu"
+            },
+            {
+                "title": "IRIS Navbar",
+                "description": "A versatile navbar component offering navigation links and branding elements.",
+                "link": "../Components/IRIS_Navbar/index.html",
+                "thumbnail": "Components/IRIS_Navbar/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_Navbar"
+            },
+            {
+                "title": "IRIS Navigation",
+                "description": "A navigation component facilitating seamless browsing through website sections.",
+                "link": "../Components/IRIS_Navigation/index.html",
+                "thumbnail": "Components/IRIS_Navigation/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_Navigation"
+            },
+            {
+                "title": "IRIS Price Cards",
+                "description": "Pricing card components showcasing various service plans with detailed features.",
+                "link": "../Components/IRIS_Price_Cards/index.html",
+                "thumbnail": "Components/IRIS_Price_Cards/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_Price_Cards"
+            },
+            {
+                "title": "IRIS Profile Card",
+                "description": "A profile card component highlighting user information and social links.",
+                "link": "../Components/IRIS_Profile_Card/index.html",
+                "thumbnail": "Components/IRIS_Profile_Card/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_Profile_Card"
+            },
+            {
+                "title": "IRIS Responsive Gallery",
+                "description": "A responsive image gallery component for showcasing visual content with adaptability.",
+                "link": "../Components/IRIS_Responsive_Gallery/index.html",
+                "thumbnail": "Components/IRIS_Responsive_Gallery/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_Responsive_Gallery"
+            },
+            {
+                "title": "IRIS Rounded Navbar",
+                "description": "A sleek navbar component with rounded corners and modern design elements.",
+                "link": "../Components/IRIS_RoundedNavbar/index.html",
+                "thumbnail": "Components/IRIS_RoundedNavbar/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_RoundedNavbar"
+            },
+            {
+                "title": "IRIS Side Navbar",
+                "description": "A sidebar navigation component offering quick access to site sections with minimal intrusion.",
+                "link": "../Components/IRIS_SideNavBar/index.html",
+                "thumbnail": "Components/IRIS_SideNavBar/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_SideNavBar"
+            },
+            {
+                "title": "IRIS SignIn SignUp Forms",
+                "description": "Forms for user authentication and registration, designed for seamless interaction.",
+                "link": "../Components/IRIS_SignIn_SignUp_Forms/index.html",
+                "thumbnail": "Components/IRIS_SignIn_SignUp_Forms/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_SignIn_SignUp_Forms"
+            },
+            {
+                "title": "IRIS Website Loaders",
+                "description": "Loader components providing visual feedback during website loading processes.",
+                "link": "../Components/IRIS_WebsiteLoaders/index.html",
+                "thumbnail": "Components/IRIS_WebsiteLoaders/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Components/IRIS_WebsiteLoaders"
+            }
+        ],
+        "Games": [
+            {
+                "title": "IRIS Memory Card Game",
+                "description": "A classic memory card matching game.",
+                "link": "../Games/IRIS_Memory_Card_Game/index.html",
+                "thumbnail": "Games/IRIS_Memory_Card_Game/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Games/IRIS_Memory_Card_Game"
+            },
+            {
+                "title": "IRIS Tabla",
+                "description": "A simulation involving the tabla, an Indian percussion instrument with sound effects.",
+                "link": "../Games/IRIS_Tabla/index.html",
+                "thumbnail": "Games/IRIS_Tabla/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Games/IRIS_Tabla"
+            },
+            {
+                "title": "IRIS Tic Tac Toe Game",
+                "description": "The classic tic-tac-toe game implemented using HTML, CSS, and JavaScript.",
+                "link": "../Games/IRIS_Tic_Tac_Toe_Game/index.html",
+                "thumbnail": "Games/IRIS_Tic_Tac_Toe_Game/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Games/IRIS_Tic_Tac_Toe_Game"
+            },
+            {
+                "title": "IRIS Typing Speed Test Game",
+                "description": "A game to test typing speed with timed challenges.",
+                "link": "../Games/IRIS_Typing_Speed_Test_Game/index.html",
+                "thumbnail": "Games/IRIS_Typing_Speed_Test_Game/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Games/IRIS_Typing_Speed_Test_Game"
+            },
+            {
+                "title": "IRIS Game 2048",
+                "description": "A web version of the popular 2048 puzzle game.",
+                "link": "../Games/IRIS_Game_2048/index.html",
+                "thumbnail": "Games/IRIS_Game_2048/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Games/IRIS_Game_2048"
+            }
+        ],
+        "Web_Applications": [
+            {
+                "title": "IRIS_Calculator",
+                "description": "A web-based calculator application.",
+                "link": "../Web_Applications/IRIS_Calculator/index.html",
+                "thumbnail": "Web_Applications/IRIS_Calculator/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Web_Applications/IRIS_Calculator"
+            },
+            {
+                "title": "IRIS_QR_Code_Generator",
+                "description": "A web tool to generate QR codes dynamically.",
+                "link": "../Web_Applications/IRIS_QR_Code_Generator/index.html",
+                "thumbnail": "Web_Applications/IRIS_QR_Code_Generator/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Web_Applications/IRIS_QR_Code_Generator"
+            },
+            {
+                "title": "IRIS_Weather_App",
+                "description": "A web application displaying current weather information.",
+                "link": "../Web_Applications/IRIS_Weather_App/index.html",
+                "thumbnail": "Web_Applications/IRIS_Weather_App/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Web_Applications/IRIS_Weather_App"
+            },
+            {
+                "title": "IRIS_White_Board",
+                "description": "A digital whiteboard application for design collaboration.",
+                "link": "../Web_Applications/IRIS_White_Board/index.html",
+                "thumbnail": "Web_Applications/IRIS_White_Board/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Web_Applications/IRIS_White_Board"
+            }
+        ],
+        "Landing_Pages": [
+            {
+                "title": "IRIS_anon_ecommerce-website-master",
+                "description": "An anonymous eCommerce website showcasing a variety of products with a user-friendly interface.",
+                "link": "../Landing_Pages/IRIS_anon_ecommerce-website-master/index.html",
+                "thumbnail": "Landing_Pages/IRIS_anon_ecommerce-website-master/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Landing_Pages/IRIS_anon_ecommerce-website-master"
+            },
+            {
+                "title": "IRIS_Apple_eCommerce",
+                "description": "A landing page dedicated to Apple products, featuring an eCommerce setup for browsing and purchasing Apple devices and accessories.",
+                "link": "../Landing_Pages/IRIS_Apple_eCommerce/index.html",
+                "thumbnail": "Landing_Pages/IRIS_Apple_eCommerce/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Landing_Pages/IRIS_Apple_eCommerce"
+            },
+            {
+                "title": "IRIS_Bankist_Dom_Manipulation",
+                "description": "A landing page demonstrating dynamic DOM manipulation techniques for interactive web experiences, inspired by banking services.",
+                "link": "../Landing_Pages/IRIS_Bankist_Dom_Manipulation/index.html",
+                "thumbnail": "Landing_Pages/IRIS_Bankist_Dom_Manipulation/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Landing_Pages/IRIS_Bankist_Dom_Manipulation"
+            },
+            {
+                "title": "IRIS_Bookmark_Website",
+                "description": "A landing page designed for bookmarking websites, emphasizing organization and easy access to favorite online destinations.",
+                "link": "../Landing_Pages/IRIS_Bookmark_Website/index.html",
+                "thumbnail": "Landing_Pages/IRIS_Bookmark_Website/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Landing_Pages/IRIS_Bookmark_Website"
+            },
+            {
+                "title": "IRIS_Classic_Cars",
+                "description": "Showcase of classic cars with detailed information and imagery, designed to appeal to enthusiasts and collectors.",
+                "link": "../Landing_Pages/IRIS_Classic_Cars/index.html",
+                "thumbnail": "Landing_Pages/IRIS_Classic_Cars/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Landing_Pages/IRIS_Classic_Cars"
+            },
+            {
+                "title": "IRIS_Edu_Courses",
+                "description": "A landing page offering educational courses with enrollment options and detailed course descriptions to attract learners.",
+                "link": "../Landing_Pages/IRIS_Edu_Courses/index.html",
+                "thumbnail": "Landing_Pages/IRIS_Edu_Courses/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Landing_Pages/IRIS_Edu_Courses"
+            },
+            {
+                "title": "IRIS_Furniture_Website",
+                "description": "Highlighting a collection of furniture items, this landing page focuses on interior design and home furnishing solutions.",
+                "link": "../Landing_Pages/IRIS_Furniture_Website/index.html",
+                "thumbnail": "Landing_Pages/IRIS_Furniture_Website/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Landing_Pages/IRIS_Furniture_Website"
+            },
+            {
+                "title": "IRIS_Gym_Website",
+                "description": "A landing page promoting a gym or fitness center, featuring membership plans, training programs, and facility details.",
+                "link": "../Landing_Pages/IRIS_Gym_Website/index.html",
+                "thumbnail": "Landing_Pages/IRIS_Gym_Website/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Landing_Pages/IRIS_Gym_Website"
+            },
+            {
+                "title": "IRIS_Halloween_Website_Raw",
+                "description": "Celebrating Halloween with a themed eCommerce landing page showcasing spooky decorations, costumes, and festivities.",
+                "link": "../Landing_Pages/IRIS_Halloween_Website_Raw/index.html",
+                "thumbnail": "Landing_Pages/IRIS_Halloween_Website_Raw/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Landing_Pages/IRIS_Halloween_Website_Raw"
+            },
+            {
+                "title": "IRIS_Movie_Website",
+                "description": "A landing page dedicated to movies, featuring trailers, reviews, and ticket booking options for cinema enthusiasts.",
+                "link": "../Landing_Pages/IRIS_Movie_Website/index.html",
+                "thumbnail": "Landing_Pages/IRIS_Movie_Website/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Landing_Pages/IRIS_Movie_Website"
+            },
+            {
+                "title": "IRIS_Tasty_Restaurant_Website",
+                "description": "Highlighting a restaurant's menu, ambiance, and reservation options to attract diners and food enthusiasts.",
+                "link": "../Landing_Pages/IRIS_Tasty_Restaurant_Website/index.html",
+                "thumbnail": "Landing_Pages/IRIS_Tasty_Restaurant_Website/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Landing_Pages/IRIS_Tasty_Restaurant_Website"
+            },
+            {
+                "title": "IRIS_Travel_Website",
+                "description": "A travel-themed landing page offering destination guides, travel packages, and booking options for adventurers and vacation planners.",
+                "link": "../Landing_Pages/IRIS_Travel_Website/index.html",
+                "thumbnail": "Landing_Pages/IRIS_Travel_Website/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Landing_Pages/IRIS_Travel_Website"
+            }
+        ],
+        "Logos_With_CSS": [
+            {
+                "title": "Avengers-Logo",
+                "description": "The Avengers logo recreated using CSS.",
+                "link": "../Logos_With_CSS/Avengers-Logo/index.html",
+                "thumbnail": "Logos_With_CSS/Avengers-Logo/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Logos_With_CSS/Avengers-Logo"
+            },
+            {
+                "title": "Chrome-Logo",
+                "description": "The Chrome logo recreated using CSS.",
+                "link": "../Logos_With_CSS/Chrome-Logo/index.html",
+                "thumbnail": "Logos_With_CSS/Chrome-Logo/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Logos_With_CSS/Chrome-Logo"
+            },
+            {
+                "title": "Facebook-Logo",
+                "description": "The Facebook logo recreated using CSS.",
+                "link": "../Logos_With_CSS/Facebook-Logo/index.html",
+                "thumbnail": "Logos_With_CSS/Facebook-Logo/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Logos_With_CSS/Facebook-Logo"
+            },
+            {
+                "title": "Google-Logo",
+                "description": "The Google logo recreated using CSS.",
+                "link": "../Logos_With_CSS/Google-Logo/index.html",
+                "thumbnail": "Logos_With_CSS/Google-Logo/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Logos_With_CSS/Google-Logo"
+            },
+            {
+                "title": "Instagram-Logo",
+                "description": "The Instagram logo recreated using CSS.",
+                "link": "../Logos_With_CSS/Instagram-Logo/index.html",
+                "thumbnail": "Logos_With_CSS/Instagram-Logo/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Logos_With_CSS/Instagram-Logo"
+            },
+            {
+                "title": "Microsoft-Logo",
+                "description": "The Microsoft logo recreated using CSS.",
+                "link": "../Logos_With_CSS/Microsoft-Logo/index.html",
+                "thumbnail": "Logos_With_CSS/Microsoft-Logo/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Logos_With_CSS/Microsoft-Logo"
+            },
+            {
+                "title": "Nike-Logo",
+                "description": "The Nike logo recreated using CSS.",
+                "link": "../Logos_With_CSS/Nike-Logo/index.html",
+                "thumbnail": "Logos_With_CSS/Nike-Logo/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Logos_With_CSS/Nike-Logo"
+            },
+            {
+                "title": "Youtube-Logo",
+                "description": "The YouTube logo recreated using CSS.",
+                "link": "../Logos_With_CSS/Youtube-Logo/index.html",
+                "thumbnail": "Logos_With_CSS/Youtube-Logo/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Logos_With_CSS/Youtube-Logo"
+            },
+            {
+                "title": "Netflix-Logo",
+                "description": "The Netflix logo recreated using CSS.",
+                "link": "../Logos_With_CSS/Netflix-Logo/index.html",
+                "thumbnail": "Logos_With_CSS/Netflix-Logo/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Logos_With_CSS/Netflix-Logo"
+            }
+        ],
+        "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript": [
+            {
+                "title": "IRIS Age Calculator",
+                "description": "Calculate someone's age based on their birthdate.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_age_calculator/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_age_calculator/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_age_calculator"
+            },
+            {
+                "title": "IRIS Animated Search Bar",
+                "description": "An animated search bar component with smooth transition effects.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_animated_search_bar/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_animated_search_bar/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_animated_search_bar"
+            },
+            {
+                "title": "IRIS Auto Text Effect Animation",
+                "description": "Automatically animate text to create dynamic visual effects.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_auto_text_effect_animation/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_auto_text_effect_animation/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_auto_text_effect_animation"
+            },
+            {
+                "title": "IRIS Background Image Scroll Effect",
+                "description": "Create a scrolling effect that changes background images based on scroll position.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_background_image_scroll_effect/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_background_image_scroll_effect/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_background_image_scroll_effect"
+            },
+            {
+                "title": "IRIS Background Video",
+                "description": "Integrate a background video into a webpage for enhanced visual appeal.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_background_video/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_background_video/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_background_video"
+            },
+            {
+                "title": "IRIS Blurred Background Popup",
+                "description": "Display pop-up content with a blurred background effect for focus.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_blurred_background_popup/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_blurred_background_popup/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_blurred_background_popup"
+            },
+            {
+                "title": "IRIS BMI Calculator",
+                "description": "Calculate Body Mass Index (BMI) based on weight and height inputs.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_bmi_calculator/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_bmi_calculator/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_bmi_calculator"
+            },
+            {
+                "title": "IRIS Clock",
+                "description": "Display a digital or analog clock to show the current time.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_clock/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_clock/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_clock"
+            },
+            {
+                "title": "IRIS Counter",
+                "description": "Implement a counter to track and display numerical values.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_counter/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_counter/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_counter"
+            },
+            {
+                "title": "IRIS Dark Mode Toggle",
+                "description": "Toggle between light and dark modes for improved user experience.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_dark_mode_toggle/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_dark_mode_toggle/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_dark_mode_toggle"
+            },
+            {
+                "title": "IRIS Dice Roll Simulator",
+                "description": "Simulate rolling dice to generate random numbers for games or simulations.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_dice_roll_simulator/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_dice_roll_simulator/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_dice_roll_simulator"
+            },
+            {
+                "title": "IRIS Digital Clock",
+                "description": "Show the current time using a digital clock format.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_digital_clock/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_digital_clock/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_digital_clock"
+            },
+            {
+                "title": "IRIS Double Landing Page",
+                "description": "Design and implement a dual landing page layout for creative purposes.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_double_landing_page/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_double_landing_page/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_double_landing_page"
+            },
+            {
+                "title": "IRIS Drum Kits",
+                "description": "Create a virtual drum kit with interactive drum sounds.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_drum_kits/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_drum_kits/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_drum_kits"
+            },
+            {
+                "title": "IRIS Emoji Rating",
+                "description": "Implement a rating system using emojis for feedback or user interaction.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_emoji_rating/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_emoji_rating/thumbnail.png","github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_emoji_rating"
+            },
+            {
+                "title": "IRIS English Dictionary",
+                "description": "Develop an interactive dictionary application with search functionality.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_english_dictionary/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_english_dictionary/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_english_dictionary"
+            },
+            {
+                "title": "IRIS Feedback UI",
+                "description": "Create a user interface for gathering and displaying feedback.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_feedback_ui/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_feedback_ui/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_feedback_ui"
+            },
+            {
+                "title": "IRIS Heart Trail Animation",
+                "description": "Animate a heart icon to leave a trail of hearts across the screen.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_heart_trail_animation/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_heart_trail_animation/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_heart_trail_animation"
+            },
+            {
+                "title": "IRIS Image Search App",
+                "description": "Build an application for searching and displaying images based on user input.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_image_search_app/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_image_search_app/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_image_search_app"
+            },
+            {
+                "title": "IRIS Image Slider",
+                "description": "Create a slideshow for displaying a series of images with navigation controls.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_image_slider/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_image_slider/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_image_slider"
+            },
+            {
+                "title": "IRIS Loading Bar",
+                "description": "Display a loading animation or progress bar to indicate ongoing processes.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_loading_bar/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_loading_bar/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_loading_bar"
+            },
+            {
+                "title": "IRIS Loan Calculator",
+                "description": "Calculate loan repayment amounts based on principal, interest rate, and term.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_loan_calculator/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_loan_calculator/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_loan_calculator"
+            },
+            {
+                "title": "IRIS Mini Calendar",
+                "description": "Display a simple calendar interface for viewing dates and events.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_mini_calendar/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_mini_calendar/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_mini_calendar"
+            },
+            {
+                "title": "IRIS Month Calendar",
+                "description": "Create a monthly calendar layout with events and navigation controls.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_month_calendar/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_month_calendar/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_month_calendar"
+            },
+            {
+                "title": "IRIS Mouse Event Interactions",
+                "description": "Implement interactive effects based on mouse movements or clicks.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_mouse_event_interactions/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_mouse_event_interactions/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_mouse_event_interactions"
+            },
+            {
+                "title": "IRIS Multiplication App",
+                "description": "Create a simple application for practicing multiplication tables.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_multiplication_app/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_multiplication_app/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_multiplication_app"
+            },
+            {
+                "title": "IRIS Music Player",
+                "description": "Build a simple music player interface with play, pause, and volume controls.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_music_player/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_music_player/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_music_player"
+            },
+            {
+                "title": "IRIS New Year Countdown Timer",
+                "description": "Count down the days, hours, minutes, and seconds until the New Year.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_new_year_countdown_timer/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_new_year_countdown_timer/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_new_year_countdown_timer"
+            },
+            {
+                "title": "IRIS Note-Taking App",
+                "description": "Create a digital notebook for taking and organizing notes.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_note_taking_app/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_note_taking_app/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_note_taking_app"
+            },
+            {
+                "title": "IRIS Photo Gallery",
+                "description": "Build a gallery to display a collection of images with navigation and lightbox features.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_photo_gallery/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_photo_gallery/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_photo_gallery"
+            },
+            {
+                "title": "IRIS Pomodoro Timer",
+                "description": "Implement a productivity timer based on the Pomodoro technique.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_pomodoro_timer/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_pomodoro_timer/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_pomodoro_timer"
+            },
+            {
+                "title": "IRIS Profile Statistics",
+                "description": "Display and animate statistical data or progress bars for a user profile.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_profile_statistics/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_profile_statistics/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_profile_statistics"
+            },
+            {
+                "title": "IRIS Q&A Section",
+                "description": "Create an interactive section for displaying questions and answers.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_qa_section/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_qa_section/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_qa_section"
+            },
+            {
+                "title": "IRIS Random Color Generator",
+                "description": "Generate random colors and display them with hex codes.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_color_generator/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_color_generator/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_color_generator"
+            },
+            {
+                "title": "IRIS Random Emoji Display",
+                "description": "Generate and display random emojis.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_emoji_display/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_emoji_display/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_emoji_display"
+            },
+            {
+                "title": "IRIS Random Password Generator",
+                "description": "Generate random passwords based on specified criteria.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_password_generator/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_password_generator/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_password_generator"
+            },
+            {
+                "title": "IRIS Random Photo Viewer",
+                "description": "Display a random image from a predefined collection.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_photo_viewer/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_photo_viewer/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_photo_viewer"
+            },
+            {
+                "title": "IRIS Random Quote Generator",
+                "description": "Generate and display random quotes.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_quote_generator/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_quote_generator/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_random_quote_generator"
+            },
+            {
+                "title": "IRIS Real-Time Character Counter",
+                "description": "Count and display the number of characters entered in real-time.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_real_time_character_counter/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_real_time_character_counter/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_real_time_character_counter"
+            },
+            {
+                "title": "IRIS Recipe Book App",
+                "description": "Create an application for managing and displaying recipes.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_recipe_book_app/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_recipe_book_app/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_recipe_book_app"
+            },
+            {
+                "title": "IRIS Rock-Paper-Scissors Game",
+                "description": "Implement the classic rock-paper-scissors game with interactive gameplay.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_rock_paper_scissors_game/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_rock_paper_scissors_game/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_rock_paper_scissors_game"
+            },
+            {
+                "title": "IRIS Rotating Image Gallery",
+                "description": "Create a gallery with rotating images or carousel functionality.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_rotating_image_gallery/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_rotating_image_gallery/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_rotating_image_gallery"
+            },
+            {
+                "title": "IRIS Sidebar Navigation",
+                "description": "Implement a sidebar for navigation with interactive effects.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_sidebar_navigation/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_sidebar_navigation/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_sidebar_navigation"
+            },
+            {
+                "title": "IRIS Step Progress Bar",
+                "description": "Display progress through a series of sequential steps.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_step_progress_bar/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_step_progress_bar/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_step_progress_bar"
+            },
+            {
+                "title": "IRIS Sticky Navbar",
+                "description": "Create a navbar that remains fixed at the top of the page during scrolling.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_sticky_navbar/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_sticky_navbar/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_sticky_navbar"
+            },
+            {
+                "title": "IRIS Stopwatch",
+                "description": "Implement a stopwatch with start, stop, and reset functionality.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_stopwatch/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_stopwatch/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_stopwatch"
+            },
+            {
+                "title": "IRIS Tabbed Content Display",
+                "description": "Create tabs to display different sets of content in the same area.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_tabbed_content_display/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_tabbed_content_display/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_tabbed_content_display"
+            },
+            {
+                "title": "IRIS Temperature Converter",
+                "description": "Implement a converter for temperature units (e.g., Celsius to Fahrenheit).",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_temperature_converter/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_temperature_converter/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_temperature_converter"
+            },
+            {
+                "title": "IRIS Tip Calculator",
+                "description": "Create a calculator for calculating tips based on bill amount and percentage.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_tip_calculator/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_tip_calculator/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_tip_calculator"
+            },
+            {
+                "title": "IRIS To-Do List Manager",
+                "description": "Implement a simple to-do list manager with add, delete, and mark as complete functionality.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_todo_list_manager/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_todo_list_manager/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_todo_list_manager"
+            },
+            {
+                "title": "IRIS Video Trailer Popup",
+                "description": "Display video trailers or clips in a pop-up window for preview or promotion.",
+                "link": "../Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_video_trailer_popup/index.html",
+                "thumbnail": "Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_video_trailer_popup/thumbnail.png",
+                "github_link": "https://github.com/JannaramPremchand/Foundational-Web-Development-Projects/tree/main/Mini_Raw_Frontend_Projects/Hands_On_Practice_Projects_with_HTML_CSS_JavaScript/IRIS_video_trailer_popup"
+            }
+        ]
+    }
+}

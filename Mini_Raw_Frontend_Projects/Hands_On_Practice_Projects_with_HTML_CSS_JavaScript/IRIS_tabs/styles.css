@@ -2,8 +2,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: #f5abc9;
-  color: grey;
+  background: #b5f5ab;
+  color: rgb(14, 65, 4);
 }
 
 img {
@@ -28,7 +28,7 @@ img {
   height: 30rem;
 }
 .tabs {
-  background: #ffe5e2;
+  background: #b1eeac;
   border-radius: 0.5rem;
   grid-template-rows: auto 1fr;
 }
@@ -46,24 +46,27 @@ img {
   padding: 1rem 0;
   border: none;
   font-size: 1rem;
-  background: #b6c9f0;
+  background: #8fea7d;
   cursor: pointer;
   transition: all 0.3s linear;
   letter-spacing: 0.25rem;
 }
 .button:hover:not(.live) {
-  background: #e93b81;
+  background: #4fe93b;
   color: white;
 }
 .tabs-content {
   padding: 2rem 1.5rem;
+  background-color: #8fea7d;
 }
 /* hide content */
 .content {
   display: none;
 }
 .button.live {
-  background: #ffe5e2;
+  background: #22ff00;
+  color: white;
+  font-weight: 600;
 }
 .content.live {
   display: block;

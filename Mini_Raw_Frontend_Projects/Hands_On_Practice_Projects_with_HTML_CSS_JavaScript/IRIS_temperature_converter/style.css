@@ -1,12 +1,12 @@
 body {
   margin: 0;
-  background: linear-gradient(to left bottom, lightgreen, lightblue);
+  background: linear-gradient(to left bottom, lightgreen, rgb(67, 135, 71));
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   font-family: monospace;
-  color: darkcyan;
+  color: rgb(12, 70, 5);
 }
 
 .container {

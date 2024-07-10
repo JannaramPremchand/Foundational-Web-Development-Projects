@@ -16,6 +16,7 @@ This repository contains a collection of web development projects built using HT
 - **IRIS_Jumping_Square:** Watch a square bounce and leap in an animated display of dynamic motion.
 - **IRIS_LandingPageAnimation:** Enhance your web presence with captivating landing page animations that engage users.
 - **IRIS_Nike_Shoes_Product_Description:** An animated product description showcasing Nike shoes.
+- **IRIS_Sliding_Product_Cards:** A single page with sliding product card displaying product details on hover.
 
 ### Games
 - **IRIS_Memory_Card_Game:** A classic memory card matching game.
@@ -45,6 +46,7 @@ This repository contains a collection of web development projects built using HT
 - **IRIS_SideNavBar:** A sidebar navigation component offering quick access to site sections with minimal intrusion.
 - **IRIS_SignIn_SignUp_Forms:** Forms for user authentication and registration, designed for seamless interaction.
 - **IRIS_WebsiteLoaders:** Loader components providing visual feedback during website loading processes.
+- **IRIS_Game_UI_Card:** A card component for displaying game information and interactive elements.
 
 ### Clones
 - **IRIS_Paypal:** A landing page clone of the PayPal website, featuring comprehensive payment solutions and user-friendly interface design.
@@ -105,7 +107,7 @@ This repository contains a collection of web development projects built using HT
 - **IRIS_to_do_list:** Manage tasks and create a to-do list with options to add, edit, and delete tasks.
 - **IRIS_video_trailer_popup:** Display video trailers or clips in a pop-up window for preview or promotion.
 
-### Landing Pages
+### Landing_Pages
 - **IRIS_anon_ecommerce-website-master:** An anonymous eCommerce website showcasing a variety of products with a user-friendly interface.
 - **IRIS_Apple_eCommerce:** A landing page dedicated to Apple products, featuring an eCommerce setup for browsing and purchasing Apple devices and accessories.
 - **IRIS_Bankist_Dom_Manipulation:** A landing page demonstrating dynamic DOM manipulation techniques for interactive web experiences, inspired by banking services.

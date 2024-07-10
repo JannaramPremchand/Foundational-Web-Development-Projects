@@ -12,8 +12,8 @@ body {
 #timer {
   font-size: 7rem;
   font-weight: 700;
-  text-shadow: 2px 2px #f8a5c2;
-  color: #f92672;
+  text-shadow: 2px 2px #b1f8a5;
+  color: #4df926;
   width: 600px;
   text-align: center;
   margin: 40px auto;
@@ -25,7 +25,7 @@ body {
 }
 
 button {
-  background-color: #f92672;
+  background-color: #5ef926;
   color: white;
   border: none;
   font-size: 2rem;
@@ -39,7 +39,7 @@ button {
 }
 
 button:hover {
-  background-color: #f44583;
+  background-color: #57f445;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
 
