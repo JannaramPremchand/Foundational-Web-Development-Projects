@@ -17,6 +17,9 @@ This repository contains a collection of web development projects built using HT
 - **IRIS_LandingPageAnimation:** Enhance your web presence with captivating landing page animations that engage users.
 - **IRIS_Nike_Shoes_Product_Description:** An animated product description showcasing Nike shoes.
 - **IRIS_Sliding_Product_Cards:** A single page with sliding product card displaying product details on hover.
+- **IRIS_Airpod_Animation**: A project focusing on animating AirPods with smooth transitions and interactions.
+- **IRIS_Panda_Login_Animation**: A login animation project featuring a panda character with engaging UI/UX elements.
+- **IRIS_Solar_Explorer_Animation**: An educational animation project centered on exploring the solar system, likely with interactive features.
 
 ### Games
 - **IRIS_Memory_Card_Game:** A classic memory card matching game.
@@ -47,6 +50,7 @@ This repository contains a collection of web development projects built using HT
 - **IRIS_SignIn_SignUp_Forms:** Forms for user authentication and registration, designed for seamless interaction.
 - **IRIS_WebsiteLoaders:** Loader components providing visual feedback during website loading processes.
 - **IRIS_Game_UI_Card:** A card component for displaying game information and interactive elements.
+- **IRIS_Tab_Indicator**: A project that animates tab indicators, enhancing the navigation experience through dynamic transitions.
 
 ### Clones
 - **IRIS_Paypal:** A landing page clone of the PayPal website, featuring comprehensive payment solutions and user-friendly interface design.
