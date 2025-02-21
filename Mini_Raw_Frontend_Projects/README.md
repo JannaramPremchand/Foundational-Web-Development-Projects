@@ -20,6 +20,12 @@ This repository contains a collection of web development projects built using HT
 - **IRIS_Airpod_Animation**: A project focusing on animating AirPods with smooth transitions and interactions.
 - **IRIS_Panda_Login_Animation**: A login animation project featuring a panda character with engaging UI/UX elements.
 - **IRIS_Solar_Explorer_Animation**: An educational animation project centered on exploring the solar system, likely with interactive features.
+- **IRIS_DSA_Visualizer:** A data structures and algorithms (DSA) visualizer designed to help users understand DSA concepts with interactive visual representations.  
+- **IRIS_Flowers:** An interactive project related to flower animations, possibly using AI or generative design.  
+- **IRIS_Interactive_Dragon:** A fun and engaging interactive dragon animation with user-controlled movements and effects.  
+- **IRIS_Interactive_Spider:** A project featuring an interactive spider animation, possibly simulating realistic movements and behaviors.  
+- **IRIS_Jarvis_Chatbot:** An AI-powered chatbot inspired by J.A.R.V.I.S., designed to assist with various tasks through voice or text interaction.  
+- **IRIS_Radial_Menu:** A radial menu UI component with smooth animations and an interactive design for better user experience. 
 
 ### Games
 - **IRIS_Memory_Card_Game:** A classic memory card matching game.
